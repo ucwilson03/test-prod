@@ -65,10 +65,10 @@ RTC URL	RTC is accessed by a URL in the integrated development environment.  The
 RTC Project Area	Community Care
 RTC Team Area	CCRS 
 
-RTC Documentation Stream	CCRS_Documentation
-RTC Documentation Baseline	CCRS Release_8.0.0.0
+RTC Documentation Stream	XXXX_Documentation
+RTC Documentation Baseline	XXXX Release_8.0.0.0
 
-RTC Documentation Components	CCRS_Documentation
+RTC Documentation Components	XXXX_Documentation
 Directory Path	The path where documents are located. 
 https://clm.rational.oit.va.gov/ccm/web/projects/Community_Care%20(CM)#action=com.ibm.team.scm.browseElement&workspaceItemId=_hQN9IGJ6EeejkLz5j-oUWQ&componentItemId=_hSAs4mJ6EeejkLz5j-oUWQ&path=/&tab=repository_files 
 
