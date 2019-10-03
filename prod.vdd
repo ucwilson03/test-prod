@@ -91,21 +91,4 @@ RTC URL	CCRS RTC is accessed by a URL in the integrated development environment.
 
 RTC Project Area	Community Care 
 
-Date	Version	Description	Author
-March 2017	1.9	Change tool references from CCM to RTC
-Change Build Output blue text to reflect artifacts instead of locations
-Update the RTC URL from https://ccm.rational.oit.va.gov:9443/ccm to https://clm.rational.oit.va.gov/ccm/web
-Configuration Management, EPMO
-April 2016	1.8	Updated VIP policies and processes
-Updated to remove ClearCase and ClearQuest references
-Correction and revision of general text	Configuration Management, EPMO
-March 2016	1.7	Updated to align with new VIP policies and processes	VIP Business Office
-December 2015	2.3	Correct alt. text in tables	Process Management
-October 2015	2.2	Update alternate text in tables, adjust spacing between tables, and allow spell and grammar checking in proofing	Process Management
-June 2015	2.1	Edited to conform with latest Section 508 guidelines and remediated with Common Look Office tool	Process Management
-May 2015	2.0	Major revision from PMAS Process Improvement Lockdown	VA OI&T ESE
-May 2015	1.3	Reordered cover sheet to enhance SharePoint search results	Process Management
-October 2014	1.2	Detailed alternate text added to each table, updated fonts, added disclaimer to instructional text regarding modification of template by end user, validated Section 508 conformance with MS Word utility, and remediated with Common Look Office tool	Process Management
-March 2013	1.1	Formatted to current ProPath documentation standards and edited to conform with latest Alternative Text (Section 508) guidelines	Process Management
-January 2013	1.0	Initial Version	PMAS Business Office
 
